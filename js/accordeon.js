@@ -4,4 +4,4 @@ headers.forEach (function (item) {
     item.addEventListener('click', function showContent() {
         this.nextElementSibling.classList.toggle('hidden');
     })
-})
+});
