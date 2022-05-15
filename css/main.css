@@ -1,6 +1,9 @@
 body {
 	font-family: 'Press Start 2P', cursive;
 }
+.hidden {
+	display: none;
+}
 /*header*/
 .logo {
 	width: 50px;
